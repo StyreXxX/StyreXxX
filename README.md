@@ -8,8 +8,9 @@ Hi there! I'm **Noor-E-Hasan Rayhan**, an enthusiastic game developer in the mak
 ---
 
 ## 🛠️ Skills & Tools  
-- **Programming Languages**: C, C++, C#  
-- **Game Development**: Unity  
+- **Programming Languages**: C, C++, C#, dart 
+- **Game Development**: Unity
+- **App Development**: Flutter, Android Studio
 - **Development Tools**: VS Code, Visual Studio  
 - **Creative Tools**: Adobe Premiere Pro, Wondershare Filmora  
 
