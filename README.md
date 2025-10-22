@@ -8,7 +8,7 @@ Hi there! I'm **Noor-E-Hasan Rayhan**, an enthusiastic game developer in the mak
 ---
 
 ## 🛠️ Skills & Tools  
-- **Programming Languages**: C, C++, C#, dart 
+- **Programming Languages**: C, C++, C#, dart, Java
 - **Game Development**: Unity
 - **App Development**: Flutter, Android Studio
 - **Development Tools**: VS Code, Visual Studio  
@@ -26,7 +26,8 @@ Hi there! I'm **Noor-E-Hasan Rayhan**, an enthusiastic game developer in the mak
 ## 🤝 Let’s Collaborate!  
 I’m always excited to connect, collaborate, and learn from others. Whether you're a game enthusiast, developer, or just someone with an idea, feel free to reach out!  
 
-📧 **Email**: [rayhannoorehasan@gmail.com](mailto:rayhannoorehasan@gmail.com)  
+📧 **Personal Email**: [omioprogramer@gmail.com](mailto:omioprogramer@gmail.com)  
+    **Work Email**: [rayhan37@iut-dhaka.edu](mailto:rayhan37@iut-dhaka.edu)
 
 ---
 
