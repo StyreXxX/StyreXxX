@@ -18,8 +18,9 @@ Hi there! I'm **Noor-E-Hasan Rayhan**, an enthusiastic game developer in the mak
 
 ## 📚 Learning & Aspirations  
 - Building innovative and interactive games.  
-- Exploring advanced game mechanics and design principles.  
-- Mastering **Unity** and **C#** for professional game development.  
+- Exploring advanced game mechanics and design principles.
+- Mainly focusing on Flutter for App Development
+- Mastering **Unity** and **C#** for professional game development(paused currently).  
 
 ---
 
