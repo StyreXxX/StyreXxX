@@ -3,7 +3,7 @@
 
 ### 🌟 Aspiring Game Developer | Passionate Coder  
 
-Hi there! I'm **Noor-E-Hasan Rayhan**, an enthusiastic game developer in the making. I thrive on challenges, creativity, and constant learning. My mission is to create engaging, immersive experiences and share my journey with the world.  
+Hi there! I'm **Noor-E-Hasan Rayhan**, an enthusiastic app and game developer in the making. I thrive on challenges, creativity, and constant learning. My mission is to create engaging, immersive experiences and share my journey with the world.  
 
 ---
 
